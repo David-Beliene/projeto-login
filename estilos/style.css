@@ -69,3 +69,7 @@ div#formulario > h1{
 div#formulario > p {
     font-size: 0.9em;
 }
+
+form > div > label{
+    font-size: 0.8em;
+}
